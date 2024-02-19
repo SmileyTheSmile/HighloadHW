@@ -1,4 +1,4 @@
-# HighloadHW
+# Проектирование высоконагруженного таск-менеджера
 
 ## Описание
 Todoist - мультиплатформенный таск-менеджер. 
@@ -12,11 +12,10 @@ Todoist - мультиплатформенный таск-менеджер.
 - Добавление файлов к задачам
 
 ## Целевая аудитория
-- М/Ж 18-60л, Весь мир
+- Весь мир
 - Всего пользователей - 47 млн. 
 - DAU - 0.2-0.5 млн.
 - MAU - 2.2 млн.
 
 ## Источники
 - https://pro.similarweb.com/#/digitalsuite/websiteanalysis/traffic-engagement/*/999/3m/?webSource=Total&selectedWidgetTab=UniqueUsers&key=todoist.com&category=no-category
-- 
